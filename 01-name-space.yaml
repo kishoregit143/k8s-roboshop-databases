@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: roboshop
+  labels:
+    environment: development
+    project: Roboshop
+    version: ve1
+    author: kishore
